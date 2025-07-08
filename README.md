@@ -1,0 +1,1 @@
+This project implements the LeNet convolutional neural network to perform image classification on the Fashion-MNIST dataset. The model was trained and evaluated using PyTorch, achieving a test accuracy of 89.26%.
